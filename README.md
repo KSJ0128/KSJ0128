@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/42-#000000?style=for-the-badge&logo=42&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/42-000000?style=for-the-badge&logo=42&logoColor=white"/></a>
 
 <!--
 **KSJ0128/KSJ0128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
