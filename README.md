@@ -1,3 +1,5 @@
+<div align="center">
+  
 ## 🧐 About me
 <a href="https://profile.intra.42.fr/users/seojkim"><img src="https://img.shields.io/badge/seojkim-000000?style=for-the-badge&logo=42&logoColor=white"/>
 
@@ -14,10 +16,10 @@
 </br>
 
 ## 📚 Experiences
-- **구름톤 유니브 3rd Backend** (2024.08 ~ )
-- **42Seoul 10th** (2023.10 ~ 2025.10)
-- **UMC(University MakeUs Challenge) 2nd Backend** (2022.03 ~ 2022.06)
-- **Sungsin Women's University, Information Systems Engineering** (2020.03 ~ )
+**구름톤 유니브 3rd Backend** (2024.08 ~ ) </br>
+**42Seoul 10th** (2023.10 ~ 2025.10) </br>
+**UMC(University MakeUs Challenge) 2nd Backend** (2022.03 ~ 2022.06) </br>
+**Sungsin Women's University, Information Systems Engineering** (2020.03 ~ ) </br>
   
 </br>
 
@@ -29,9 +31,10 @@
 #### Backend
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/springsecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"></a>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/>
 
 #### Database
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"></a>
@@ -46,3 +49,4 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"></a>
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"></a>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"></a>
+</div>
