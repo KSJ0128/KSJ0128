@@ -1,5 +1,5 @@
 ## 🧐 About me
-<img src="https://img.shields.io/badge/42-000000?style=for-the-badge&logo=42&logoColor=white"/>
+<a href="https://profile.intra.42.fr/users/seojkim"><img src="https://img.shields.io/badge/42-000000?style=for-the-badge&logo=42&logoColor=white"/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=KSJ0128&theme=apprentice&show_icons=true" width="48%"/></a>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ksj01128)](https://solved.ac/ksj01128)
