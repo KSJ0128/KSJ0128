@@ -13,7 +13,7 @@
 
 </br>
 
-## Experiences
+## 📚 Experiences
 - **구름톤 유니브 3rd Backend** (2024.08 ~ )
 - **42Seoul 10th** (2023.10 ~ 2025.10)
 - **UMC(University MakeUs Challenge) 2nd Backend** (2022.03 ~ 2022.06)
