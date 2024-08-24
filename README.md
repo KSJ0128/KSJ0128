@@ -23,6 +23,11 @@
   
 </br>
 
+## 📚 Projects
+#### [가치해양 : 해안 플로깅 장려 어플리케이션](https://github.com/TogetherWithOcean-TWO/Back)
+#### [GPP : 반려식물 키우미 어플리케이션](https://github.com/GrowingPetPlant/Back)
+</br>
+
 ## 🛠️ Tech Stack
 #### Programming
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/></a>
