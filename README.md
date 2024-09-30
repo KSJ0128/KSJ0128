@@ -29,29 +29,20 @@
 </br>
 
 ## 🛠️ Tech Stack
-#### Programming
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/></a>
+
+#### Programming Language
+[![Languages](https://skillicons.dev/icons?i=c,cpp,java)](https://skillicons.dev)
 
 #### Backend
-<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/springsecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"></a>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/>
+[![Backend](https://skillicons.dev/icons?i=spring,hibernate,gradle)](https://skillicons.dev)
 
 #### Database
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"></a>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white">
+[![Database](https://skillicons.dev/icons?i=mysql,redis)](https://skillicons.dev)
 
 #### Cloud
-<img src="https://img.shields.io/badge/Amazon_Aws-232F3E?style=for-the-badge&logo=amazon%20web%20services&logoColor=white"></a>
-<img src="https://img.shields.io/badge/google%20cloud-4285F4?style=for-the-badge&logo=google%20cloud&logoColor=white">
+[![Cloud](https://skillicons.dev/icons?i=aws,gcp)](https://skillicons.dev)
 
 #### Tool
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"></a>
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"></a>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"></a>
+[![Tool](https://skillicons.dev/icons?i=git,github,markdown,idea,vscode,postman,notion)](https://skillicons.dev)
+
 </div>
