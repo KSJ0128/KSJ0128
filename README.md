@@ -24,9 +24,9 @@
 </br>
 
 ## 📚 Projects
+#### [BEF : 배리어프리 관광 지도 어플리케이션](https://github.com/BF-TRIP/Back)
 #### [TWO - 가치해양 : 해안 플로깅 장려 어플리케이션](https://github.com/TogetherWithOcean-TWO/Back)
 #### [GPP : 반려식물 키우미 어플리케이션](https://github.com/GrowingPetPlant/Back)
-#### [BEF : 배리어프리 관광 지도 어플리케이션](https://github.com/BF-TRIP/Back)
 #### [MovieBook : 유저 영화 취향 기반 도서 추천 시스템](https://github.com/Movie-Book/Back)
 
 </br>
