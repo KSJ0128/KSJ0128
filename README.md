@@ -34,18 +34,29 @@
 ## 🛠️ Tech Stack
 
 #### Programming Language
-[![Languages](https://skillicons.dev/icons?i=c,cpp,java)](https://skillicons.dev)
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/>
 
 #### Backend
-[![Backend](https://skillicons.dev/icons?i=spring,hibernate,gradle)](https://skillicons.dev)
+<img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/springsecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/></a>
 
 #### Database
-[![Database](https://skillicons.dev/icons?i=mysql,redis)](https://skillicons.dev)
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"></a>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white">
 
 #### Devops
-[![Cloud](https://skillicons.dev/icons?i=aws,gcp,kubernetes,docker)](https://skillicons.dev)
+<img src="https://img.shields.io/badge/Amazon_Aws-232F3E?style=for-the-badge&logo=amazon%20web%20services&logoColor=white"></a>
+<img src="https://img.shields.io/badge/google%20cloud-4285F4?style=for-the-badge&logo=google%20cloud&logoColor=white">
+<img src="https://img.shields.io/badge/naver%20cloud-03C75A?style=for-the-badge&logo=Naver&logoColor=white">
+<img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
 
 #### Tool
-[![Tool](https://skillicons.dev/icons?i=git,github,markdown,idea,vscode,postman,notion,figma)](https://skillicons.dev)
-
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"></a>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"></a>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"></a>
 </div>
