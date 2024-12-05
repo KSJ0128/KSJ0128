@@ -50,7 +50,7 @@
 #### Devops
 <img src="https://img.shields.io/badge/Amazon_Aws-232F3E?style=for-the-badge&logo=amazon%20web%20services&logoColor=white"></a>
 <img src="https://img.shields.io/badge/google%20cloud-4285F4?style=for-the-badge&logo=google%20cloud&logoColor=white">
-<img src="https://img.shields.io/badge/naver%20cloud-03C75A?style=for-the-badge&logo=Naver&logoColor=white">
+<img src="https://img.shields.io/badge/naver%20cloud-03C75A?style=for-the-badge&logo=Naver&logoColor=white"></br>
 <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 <img src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
 
