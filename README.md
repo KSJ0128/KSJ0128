@@ -42,10 +42,10 @@
 #### Database
 [![Database](https://skillicons.dev/icons?i=mysql,redis)](https://skillicons.dev)
 
-#### Cloud
-[![Cloud](https://skillicons.dev/icons?i=aws,gcp)](https://skillicons.dev)
+#### Devops
+[![Cloud](https://skillicons.dev/icons?i=aws,gcp,kubernetes,docker)](https://skillicons.dev)
 
 #### Tool
-[![Tool](https://skillicons.dev/icons?i=git,github,markdown,idea,vscode,postman,notion)](https://skillicons.dev)
+[![Tool](https://skillicons.dev/icons?i=git,github,markdown,idea,vscode,postman,notion,figma)](https://skillicons.dev)
 
 </div>
