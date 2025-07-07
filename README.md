@@ -16,10 +16,10 @@
 </br>
 
 ## 📚 Experiences
-**구름톤 유니브 3rd Backend** (2024.08 ~ ) </br>
-**42Seoul 10th Cadet** (2023.10 ~ ) </br>
+**구름톤 유니브 3rd Backend** (2024.08 ~ 2025.12) </br>
+**42Seoul 10th Cadet** (2023.10 ~ 2025.01) </br>
 **UMC(University MakeUs Challenge) 2nd Backend** (2022.03 ~ 2022.06) </br>
-**Sungsin Women's University, Information Systems Engineering** (2020.03 ~ ) </br>
+**Sungsin Women's University, Information Systems Engineering** (2020.03 ~ 2025.02) </br>
   
 </br>
 
